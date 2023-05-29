@@ -10,11 +10,11 @@ Amé y perdí tantas veces, pero aquí estoy.
 
 Si fuese un iluso, que utiliza lo que estudió para encontrar consuelo, te diría que existe una estrategia óptima para realizar apuestas con resultados conocidos. Si quieres encontrar el amor de tu vida, debes resolver el problema de la secretaria:
 
-•	Hay varias mujeres aspirando al puesto de secretaria.
-•	Tú quieres contratar a la mejor.
-•	Cada aspirante pasa una a una para la entrevista.
-•	Si le dices que no a una, ella no volverá.
-•	¿Cómo elegir a la mejor posible?
+* Hay varias mujeres aspirando al puesto de secretaria.
+* Tú quieres contratar a la mejor.
+* Cada aspirante pasa una a una para la entrevista.
+* Si le dices que no a una, ella no volverá.
+* ¿Cómo elegir a la mejor posible?
 
 La solución se encontró hace ya bastante tiempo, pues el problema es viejo, y se trata de entrevistar al 30% de las candidatas para hacerte una idea de sus capacidades y luego elegir a la siguiente mejor opción que encuentres.
 
